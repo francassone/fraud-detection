@@ -1,7 +1,7 @@
 # 💳 Credit Card Fraud Detection
 
 This project demonstrates an end-to-end **machine learning pipeline for fraud detection**.  
-It uses a curated version of the popular credit card transactions dataset (`creditcard_2023.csv`), where minimal preprocessing is required, so the focus is on **model building, evaluation, and deployment** rather than data cleaning.
+It uses a curated version of the popular credit card transactions dataset (`creditcard_2023.csv`, https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023), where minimal preprocessing is required, so the focus is on **model building, evaluation, and deployment** rather than data cleaning.
 
 ## 🚀 Project Structure
 ```
